@@ -4,4 +4,4 @@ Learning from [Junde Yhi](https://github.com/lmy441900), I decide to create a no
 
 This may be boring and cost a lot of time, thus as usual, I may give up it if I don't want to do it anymore :D.
 
-Please notice that these notes are repharesed by me, thus it will have **inevitabe error**. If you found any error in these notes, Please contact me.
+Please notice that these notes are repharesed by me, thus it will have **inevitabe error**. If you find any error in these notes, please contact me.
