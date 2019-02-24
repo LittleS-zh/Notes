@@ -1,6 +1,6 @@
-## Notes
+# Notes
 
-**Learning from @lmy441900 I decide to create a notes repository to store and share my notes taken in [UIC] (http://uic.edu.hk).
+Learning from [Junde Yhi](https://github.com/lmy441900), I decide to create a notes repository to store and share my notes taken in [UIC](http://uic.edu.hk).
 
 This may be boring and cost a lot of time, thus as usual, I may give up it if I don't want to do it anymore. :D.
 
